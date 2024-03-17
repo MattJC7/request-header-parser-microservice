@@ -1,3 +1,15 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+## Purpose
+
+- Project 2 of Back End Development through FreeCodeCamp curriculum
+
+## Function
+
+- A request to [project url]/api/whoami will return a JSON object with request headers parsed to include IP address, browser software version and preferred language.
+
+## How to use 
+
+```
+[project url]/api/whoami
+```
